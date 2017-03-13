@@ -118,7 +118,7 @@ h4 {
 .top-c {
   background: url(../img/products-bg.png) no-repeat top center;
   background-size: cover;
-  width: 100%;
+  width: 500px;
   height: 600px;
   margin-top: relative;
   position: top-c;
